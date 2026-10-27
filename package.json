@@ -1,0 +1,9 @@
+{
+  "name": "tunnelforge",
+  "version": "1.0.0",
+  "description": "Fetch free public tunnel servers, health-check them, and generate configs + payloads",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "license": "MIT"
+}
